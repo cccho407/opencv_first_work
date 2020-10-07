@@ -13,4 +13,8 @@
 #### 6.save image file
 
 
+#### The original images are in the img directory and result images are in the result_img directory.
 
+#### blur or edge detaction were performed in several ways.
+
+#### save function was applied except for read_image_video.py
